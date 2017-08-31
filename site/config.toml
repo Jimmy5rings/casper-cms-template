@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "this is my description"
-  cover = "https://unsplash.com/photos/Ln7l7NEx-3o"
+  cover = "images/james-walker-357390.jpg"
   author = "Valère JEANTET"
   authorlocation = "Paris, France"
   authorwebsite = "http://vjeantet.fr"
